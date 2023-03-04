@@ -1,0 +1,1 @@
+# 基于Nonebot2的连接ChatGPT的QQ机器人
