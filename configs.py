@@ -6,7 +6,7 @@ class OpenaiAccount():
     '''
 
     MODEL = "gpt-3.5-turbo"
-    OPENAI_API = "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"
+    OPENAI_API = __YOUR_OPENAI_API__
 
 
 class Persona():
