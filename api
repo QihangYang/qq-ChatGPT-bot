@@ -1,4 +1,0 @@
-{
-    "MODEL": "gpt-3.5-turbo",
-    "OPENAI_API": __YOUR_API__
-}
